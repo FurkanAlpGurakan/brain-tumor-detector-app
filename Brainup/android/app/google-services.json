@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "963653337448",
+    "firebase_url": "https://furkanalp-brainup-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "furkanalp-brainup",
+    "storage_bucket": "furkanalp-brainup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963653337448:android:1e6f3ff5e57dcd8cbb56dd",
+        "android_client_info": {
+          "package_name": "com.furkanalp.brainup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBH2ZiSeU0DztnETOG1xd4VjlJNrII80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
