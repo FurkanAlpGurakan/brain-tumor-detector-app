@@ -29,48 +29,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyASa21PXb05UCEtqVvDwNC0uk_UxDqsne0',
-    appId: '1:874341145921:web:5c01bfb046f16dc500d5c0',
-    messagingSenderId: '874341145921',
-    projectId: 'braintumorapplication',
-    authDomain: 'braintumorapplication.firebaseapp.com',
-    storageBucket: 'braintumorapplication.firebasestorage.app',
-    measurementId: 'G-YDNTM3411Q',
+    
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAqBH2ZiSeU0DztnETOG1xd4VjlJNrII80',
-    appId: '1:963653337448:android:1e6f3ff5e57dcd8cbb56dd',
-    messagingSenderId: '963653337448',
-    projectId: 'furkanalp-brainup',
-    storageBucket: 'furkanalp-brainup.firebasestorage.app',
+    
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDUFaVW2j5an7fIGc4vvCp4COF6m18Tcg8',
-    appId: '1:874341145921:ios:4061c4e98c109bc500d5c0',
-    messagingSenderId: '874341145921',
-    projectId: 'braintumorapplication',
-    storageBucket: 'braintumorapplication.firebasestorage.app',
-    iosBundleId: 'com.example.deneme',
+   
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDUFaVW2j5an7fIGc4vvCp4COF6m18Tcg8',
-    appId: '1:874341145921:ios:4061c4e98c109bc500d5c0',
-    messagingSenderId: '874341145921',
-    projectId: 'braintumorapplication',
-    storageBucket: 'braintumorapplication.firebasestorage.app',
-    iosBundleId: 'com.example.deneme',
+  
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyASa21PXb05UCEtqVvDwNC0uk_UxDqsne0',
-    appId: '1:874341145921:web:17872a1879b41f3400d5c0',
-    messagingSenderId: '874341145921',
-    projectId: 'braintumorapplication',
-    authDomain: 'braintumorapplication.firebaseapp.com',
-    storageBucket: 'braintumorapplication.firebasestorage.app',
-    measurementId: 'G-SBSSZYEGVB',
+ 
   );
 }
